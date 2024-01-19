@@ -1,0 +1,19 @@
+def question2_1():
+    # answer = ['discrete', 'ratio', 'string']
+    return answer
+
+def question2_2():
+    # answer = ['continuous', 'ratio',]
+    return answer
+
+def question2_3():
+    # answer = ['continuous','ratio']
+    return answer 
+
+def question2_4():
+    # answer = ['Discrete','Ordinal']
+    return answer
+
+def question2_5():
+    # answer = ['discrete','Nominal']
+    return answer
