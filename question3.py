@@ -1,31 +1,31 @@
 def question3_1():
-    # answer = ['Continuous', 'Quantitative ', 'ratio']
+    answer = ['Continuous', 'Quantitative', 'Interval']
     return answer
 
 def question3_2():
-    # answer = ['discrete', 'qualitative ', 'ordinal']
+    answer = ['Discrete', 'Qualitative', 'Ordinal']
     return answer
 
 def question3_3():
-    # answer = ['discrete', 'qualitative ', 'ordinal']
+    answer = ['Discrete', 'Qualitative', 'ordinal']
     return answer 
 
 def question3_4():
-    # answer = ['Continuous', 'Quantitative ', 'ratio']
+    answer = ['Continuous', 'Quantitative', 'Ratio']
     return answer
 
 def question3_5():
-    # answer = ['discrete', 'qualitative ', 'Nominal']
+    answer = ['Discrete', 'Qualitative', 'Nominal']
     return answer
 
-def question3_6
-    # answer = ['Continuous', 'Quantitative ', 'interval ']
+def question3_6():
+    answer = ['Continuous', 'Quantitative', 'Ratio']
     return answer
 
 def question3_7():
-    # answer = ['Continuous', 'Quantitative ', 'ratio']
+    answer = ['Discrete', 'Quantitative', 'Ratio']
     return answer
 
 def question3_8():
-    # answer = ['discrete', 'qualitative ', 'ordinal']
+    answer = ['Discrete', 'Qualitative', 'Ordinal']
     return answer
