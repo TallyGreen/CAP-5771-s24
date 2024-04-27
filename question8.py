@@ -1,15 +1,15 @@
 def question8_1():
-    answer=  ['3/5', '0']
+    answer= ['x1', 'x2']
     return answer
 
 def question8_2():
-    answer=  ['3/5', '0']
+    answer= "equally similar"
     return answer
 
 def question8_3():
-    answer= 'equally similar'
+    answer= "equally similar"
     return answer 
 
 def question8_4():
-    answer= 'equally similar'
+    answer= ['x2', 'y3']
     return answer 
