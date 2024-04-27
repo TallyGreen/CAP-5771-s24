@@ -1,19 +1,25 @@
 def question2_1():
-    # answer = ['discrete', 'Quantitative', 'string']
+    # courses is countable and allows ratios, it is countably infinite.
+    answer = ['discrete', 'quantitative', 'ratio']
     return answer
 
 def question2_2():
-    # answer = ['continuous', 'Quantitative', 'ratio',]
+    # Car speed allows ratios, it uncountably infinite.
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question2_3():
-    # answer = ['continuous', 'Quantitative','ratio']
+    # Decibels is a continuous scale, but has no true zero.
+    answer = ['continuous', 'quantitative', 'interval']
     return answer 
 
 def question2_4():
-    # answer = ['Discrete', 'Qualitative','Ordinal']
+    # The categroies are not mathematical scale is not twice as bad as a 4.
+    answer = ['discrete', 'qualitative', 'ordinal']
     return answer
 
 def question2_5():
-    # answer = ['discrete','Qualitative','Nominal']
+    # values are not numerical and there is no ranking involved.
+    answer = ['discrete', 'qualitative', 'nominal']
     return answer
+
